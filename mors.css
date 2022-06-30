@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+
+body {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background: #FFFFFF;
+  overflow: hidden;
+}
+
+.page-wrap {
+  position: relative;
+  width: 1920px;
+  margin: 0 auto;
+}
+
+.RODO-but {
+  position: absolute;
+  width: 68px;
+  height: 29px;
+  left: 1347px;
+  top: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+.PROGRAM-UE-but {
+  position: absolute;
+  width: 155px;
+  height: 29px;
+  left: 961px;
+  top: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+.FIRMA-but {
+  position: absolute;
+  width: 71px;
+  height: 29px;
+  left: 659px;
+  top: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+}
+
+.mors-logo {
+  position: absolute;
+  width: 371px;
+  height: 248px;
+  left: 175px;
+  top: 64px;
+}
+
+.mors-logo2 {
+  position: absolute;
+  width: 371px;
+  height: 248px;
+  left: 175px;
+  top: 64px;
+}
+
+.fishline-baner {
+  position: absolute;
+  width: 1920px;
+  height: 556px;
+  left: 0px;
+  top: 232px;
+}
+
+.mors-kaufland {
+  position: absolute;
+  width: 1000px;
+  height: auto;
+  left: 900px;
+  top: -50px;
+}
+
+.klauzula {
+  position: absolute;
+  width: 1347px;
+  height: 1124px;
+  left: calc(50% - 1347px/2 + 398.5px);
+  top: calc(50% - 1124px/2 + 500px);
+}
+
+.wiz {
+  position: absolute;
+  width: 477px;
+  height: 285px;
+  left: 183px;
+  top: 625px;
+}
+
+._rodo {
+  position: absolute;
+  width: 559.09px;
+  height: 245.04px;
+  left: 155px;
+  top: 150px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 180.26px;
+  line-height: 218px;
+  text-align: center;
+  color: #D9D9D9;
+}
+
+._firma {
+  position: absolute;
+  width: 559.09px;
+  height: 245.04px;
+  left: 149px;
+  top: 250px;
+  /* head */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 180.26px;
+  line-height: 218px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.text {
+  position: absolute;
+  width: 796px;
+  height: 262px;
+  left: 164px;
+  top: 649px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #475570;
+}
+
+.phone {
+  position: absolute;
+  top: 850px;
+  left: 500px;
+}
+
+.mail {
+  position: absolute;
+  top: 850px;
+  left: 600px;
+}
+
+.location {
+  position: absolute;
+  top: 850px;
+  left: 700px;
+}
+
+._program-ue {
+  position: absolute;
+  width: 1157px;
+  height: 218px;
+  left: 67px;
+  top: 0px;
+
+  /* head */
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 180.26px;
+  line-height: 218px;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.text2 {
+  position: absolute;
+  width: 701px;
+  height: 522px;
+  left: 259px;
+  top: 600px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #475570;
+}
+
+.gw-copy {
+  position: absolute;
+  width: 1530px;
+  height: auto;
+  left: 450px;
+  top: 0px;
+}
+
+.kauf3 {
+  position: absolute;
+  width: 204px;
+  height: 150px;
+  left: calc(50% - 204px/2 - 578px);
+  top: 450px;
+}
+
+.kauf4 {
+  position: absolute;
+  width: 204px;
+  height: 150px;
+  left: calc(50% - 204px/2 - 350px);
+  top: 450px;
+}
+
+.kauf5 {
+  position: absolute;
+  width: 204px;
+  height: 150px;
+  left: calc(50% - 204px/2 - 122px);
+  top: 450px;
+}
